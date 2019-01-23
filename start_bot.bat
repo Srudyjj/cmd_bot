@@ -1,0 +1,1 @@
+start /min node cmd.js
