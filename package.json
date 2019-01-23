@@ -1,0 +1,22 @@
+{
+  "name": "cmd_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cmd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Srudyjj/cmd_bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Srudyjj/cmd_bot/issues"
+  },
+  "homepage": "https://github.com/Srudyjj/cmd_bot#readme",
+  "dependencies": {
+    "telegram-bot-api": "^1.3.1"
+  }
+}
